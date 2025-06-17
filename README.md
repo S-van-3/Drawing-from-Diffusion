@@ -4,7 +4,7 @@ Database of generated images for Thesis Studio GenAI 2024-2025
 
 --------------------
 Appendix: AI-Based Video Generation
-
+--------------------
 Recent advancements in artificial intelligence have significantly enhanced video generation capabilities, 
 primarily through the use of diffusion models. These models synthesize video content by iteratively denoising random input, 
 progressively forming coherent sequences of video frames based on natural language prompts. 
@@ -29,14 +29,14 @@ LTX Studio: A platform offering granular control over narrative structure and ch
 
 Sora (OpenAI): A high-performance model focused on producing professional-grade video content. (https://openai.com/sora/)
 
---------------------
+
 
 
 
 
 --------------------
 Appendix: Low-Rank Adaptation (LoRA) for Model Fine-Tuning
-
+--------------------
 Low-Rank Adaptation (LoRA) is a parameter-efficient fine-tuning technique that enables the customization of large generative models, 
 such as those used for image and video synthesis, without requiring full retraining. 
 By introducing a small number of additional trainable parameters into the model architecture, 
