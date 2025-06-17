@@ -28,6 +28,7 @@ W.A.L.T.: A transformer-based approach designed for efficient and photorealistic
 LTX Studio: A platform offering granular control over narrative structure and character behavior, oriented toward storytelling applications. (https://ltx.studio)
 
 Sora (OpenAI): A high-performance model focused on producing professional-grade video content. (https://openai.com/sora/)
+
 --------------------
 
 
@@ -59,4 +60,5 @@ This Stable Diffusion Art guide presents a written overview of dataset preparati
 This RunPod Blog explains video-specific LoRA training, including infrastructure setup and hyperparameter selection. (https://blog.runpod.io/complete-guide-to-training-video-loras/)
 
 This SeaArt guide explores advanced techniques such as mixed precision and optimization of training cycles. (https://docs.seaart.ai/guide-1/3-advanced-guide/3-2-lora-training-advance)
+
 --------------------
